@@ -5,3 +5,7 @@ HW1/data/
 HW2/data_vhr10/
 HW2/data_cifar10/
 HW2/diary
+.venv/
+__pycache__/
+data/
+HW3/samples/
